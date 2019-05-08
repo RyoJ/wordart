@@ -1,0 +1,32 @@
+﻿3. Method
+3-1. Questionnaire survey
+3-1-1. Purpose of the questionnaire survey
+In this study, we dealt with "the right infringement that happens in everyday life". Therefore, in the questionnaire survey, we examined how the general public thinks about the issue that deviates from the common sense. All about the events that are likely to infringe the rights of others in daily life, such as obvious crimes such as property rights infringement and events that change judgment depending on situations such as manners and morals There are 54 questions. As for infringement of property rights, we infringed on the property infringement of the persimmon trees and clothes of other people's homes and copyright infringements of copyrighted works, etc. In manners and morals, we asked about the handling of photographs and personal information taken by others. By subjecting these results to principal component analysis, we considered from what viewpoints these two problems were considered to be problems.
+
+
+
+
+About questions of questionnaire survey
+The items and contents of the questionnaire survey are described below.
+
+
+Table 2 Items and contents of questionnaire survey
+Survey item
+investigation
+A. Items related to information equipment use
+Awareness of infringing rights when using information equipment
+B. Items related to daily life
+Consciousness against infringement in daily life
+
+
+As for the question of AB, the scoring method is 5 points, 4 points, 3 points, 2 points for each option 1, 2, 3, 4 and 5, respectively.
+I made one point and added it up. As a result, if the score is high, it can be considered that A: awareness of ownership when using an information device, and B: awareness of ownership in everyday life is high.
+
+
+Interview survey
+Purpose of the interview
+Clear the difference between the law and the individual's mindset. The principal component can be determined by analyzing the questionnaire survey. The questions in the questionnaire ask the pros and cons of specific actions. Also, we used laws and social norms as external criteria, and made desirable responses. The interviews clarify the difference between the law and the individual's mind, but the individual's mind should also be influenced by the law. In particular, in today's information society, the influence of PCs and smartphones can be considered. From the point of view of the main components derived from the questionnaire, we examined where that individual considered good and where they considered problems.
+
+
+About interview survey
+An outline of the interview survey is shown in the appendix.

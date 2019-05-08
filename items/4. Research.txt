@@ -1,0 +1,55 @@
+﻿Research
+Questionnaire survey
+We conducted a questionnaire survey of 89 Japanese people at REAS. The request method was SNS (Facebook, LINE, QQ) or Mail. The targets are male and female friends aged over 10 who were introduced by the acquaintance of the author. The question was to first check the person's sense of rights, and asked six questions to ask attributes. Next, the entire question was divided into two items, which were designated as A. Items related to information equipment use and B. Items related to daily life. I took a total of 54 questions, 35 questions and 19 questions respectively.
+
+
+Interview survey
+As a result of the principal component analysis of the results of the questionnaire, five principal components were obtained. This is a concept extracted from 54 specific events, and given the most likely name for it. The question of each principal component is considered to be a thing that various ideas are assumed by people. In the interview, I changed the various conditions included in the question, and asked the person what kind of situation, how to think and how to actually act in that situation. From there, we consider each principal component. It is thought that the difference with the law which is an external standard can also be considered by it.
+
+
+interview
+As we have hoped for interviews in the questionnaire survey, we ask 12 out of them to cooperate. I specified a place and went directly to meet. The time was about 2 hours.
+
+
+
+
+result
+Questionnaire survey
+Data processing of questionnaire survey
+As of December 7, 2016 (Wednesday), valid data of 84 Japanese were collected. The analysis was performed below.
+
+
+Analysis of the questionnaire
+This time, I used "R" which is free software for analysis and analysis.
+The following describes the procedure of principal component analysis when "R" is used.
+Paste the original data to R Table (x <-read.table (“clipboard”, header = T))
+Standardize the source data (scale (x))
+Find correlation coefficient between ABCDE (cor (x))
+The correlation matrix is ​​subjected to an uncorrelated test. (n = 80)
+Perform principal component analysis (result <-prcomp (x, scare = T)): scare = T: standardization
+Display eigenvectors (result $ rotation)
+Plot the variables for the first principal component and the second principal component (biplot (result))
+Display principal component scores (result $ x).
+Calculate standard deviation (root of eigenvector), contribution rate, cumulative contribution rate (summary (result))
+Graph the cumulative contribution rate (screeplot (result))
+Find the eigenvalues ​​and eigenvectors from the correlation matrix found in 3. and compare with 5.8. (Eigen (cor (x)))
+From the eigenvalues ​​and eigenvectors, the principal component load amount and principal component score are determined and confirmed.
+Interpret non-correlation test of correlation matrix with significance level of 1% and 5%.
+Interpret for principal components (up to PC15) with cumulative contributions up to 80% or more.
+
+
+Correlation matrix
+Matrix of single correlation coefficients. Take a value between -1 and 1. For example, when the absolute value of the single correlation coefficient of A01 and A02 is 0.5 or more, it can be said that they are related. It is considered that the closer this value is to 1, the same question, and the closer to -1, the opposite question is asked. In order to analyze more accurately, we perform uncorrelated tests in this experiment. Also, this table is described in 'Table x AB correlation matrix' in the Appendix (p. Xx).
+
+
+Principal component analysis
+Principal component analysis was performed for AB. It was possible to judge which question the tendency of the main component well represents.
+Principal component analysis is based on the point where the variance is the largest, and in the case of this study, the 54-dimensional principal component axis could be determined. At this time, the variance of each principal component score is that of each eigenvalue. And the eigenvector corresponding to each eigenvalue is a main component.
+As shown in Fig. 3.1, the main component of this research is obtained by the main component analysis of the results of the questionnaire, and it can be interpreted that there are various ideas of various people for one question. In addition to social norms up to now, with the development of information and communication technology, it is expected that social norms based on new concepts such as information and Internet space will be extracted as the main components.
+In interpreting the meaning of the main component, the cumulative contribution ratio of 80% or more is adopted. In this case, since there are many low eigenvector values ​​in the main components 1, 2, and 3, it is decided to select five of the ones with large absolute values ​​of the eigenvectors to interpret the meaning of the main components. The cumulative contribution to the fifth principal component is 81%. 'Table x Principal component analysis' is listed below.
+Table 3 Principal component analysis
+
+
+
+
+The first to fifth principal components were taken as the sense of rights, ownership, information, privacy and self-responsibility. From these, it is assumed that by conducting an interview survey about these five senses, it is possible to hear various opinions based on personal experiences.

@@ -1,0 +1,49 @@
+﻿Consciousness and its background of infringement of others right
+
+1 background
+With the development of information and communication technology, it has become an information society and people's lives are also diversified. Along with this, new crimes using the Internet and digital devices are also increasing. Also, on the other hand, the conventional crimes are on the decline.
+
+
+
+
+The number of perceived criminal law criminals has been consistently decreasing since the peak in 2002, and there has been a certain improvement in the crime situation. However, in addition to child abuse, stalking cases, and cases of violence from spouses tending to increase, the total damage of special fraud including payment fraud in 27 years will be about 48.2 billion yen. The situation is still unpredictable. In addition, cyber threats are frequent and cyber attacks are continuing, and threats in cyber space are becoming serious.
+(2016 version police white paper p. 64)
+
+
+As a whole, while acknowledging the improvement of the criminal situation, on the other hand, the increase in child abuse, stalking cases, violent cases from spouses, special fraud including transfer fraud etc. It mentions the growing seriousness of cybercrime.
+
+
+
+
+Next, we will look at the transition of cybercrime. There is a description in "Section 1: The current state of cybercrime" in "Feature II: Aiming for the realization of a safe, secure and responsible cyber civil society".
+
+
+<1> General arrest situation
+The number of arrests for cybercrime continues to increase, reaching 6,933 in 2010, an increase of 243 cases (3.6%) over the previous year, the highest ever. In addition, the number of arrests for network use crimes (Note 2) during 22 years also reached 5,199, an increase of 1,238 (31.3%) over the previous year, reaching a record high.
+(Feature II: Aiming for the realization of a safe, secure and responsible cyber civil society (H13 ~ 22): https://www.npa.go.jp/hakusyo/h23/honbun/html/1-toku2_1_1.html)
+
+
+
+
+In addition, the “2016 Police White Paper” also includes the transition from 2011 to 2011, “Chapter 3: Securing Cyberspace Safety, Section 1: Threats to Cyberspace, (1) Arrest of Cybercrime In the "Situation" there is the following description.
+
+
+
+
+The number of arrests for cybercrime during 2015 increased by 191 (2.4%) from the previous year to 8,096. The number of arrests for violation of the unauthorized access law (Note 3) increased by 9 cases (2.5%) from the previous year to 373 cases. The number of arrested persons increased by 3 (1.8%) to 173, compared with the previous year.
+
+
+
+
+The number of arrests for crimes relating to computer and electromagnetic records prescribed in the Penal Code and for crimes relating to fraudulent instructions (so-called computer virus crimes) increased by 48 (25.0%) from the previous year to 240. . Of these, 45 cases were found for computer virus crimes. The number of arrests for networked crimes increased by 134 (1.8%) to 7,483, compared with the previous year.
+(2016 version police white paper p. 120)
+
+
+
+
+As mentioned above, “The number of perceived criminal offenses has consistently decreased since the peak of 2002, and there has been a certain improvement in the crime situation” (2016 Police White Paper p. 64) However, it can be seen that cybercrime specific to the information society has been increasing steadily in recent years.
+
+
+
+
+The Japanese government is not only involved in the growing number of cybercrime, but is also responding in various ways. One of them is "It is illegal because of the revision of the Copyright Act enforced on January 1, 2010. "Downloading (replicating) while knowing that music / video by Internet distribution is illegal is infringing (violation of copyright law) even for private use purposes" (Government PR Online (2017.3): http: // www .riaj.or.jp / z / stopillegaldownload / about.html)

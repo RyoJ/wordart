@@ -1,0 +1,143 @@
+﻿Summary
+Verification of principal component analysis
+Among the opinions obtained from the interview survey, the points that coincide with the principal components calculated by the questionnaire survey are summarized.
+In the following (1) to (5), the main components, their meanings, and the <opinion to be the basis> are described. As for <baseline opinion>, we referred to the opinion of informants in “5.2.2 Summary of SCAT analysis” and “Table 4 overall opinion” mentioned above. Also, the numbers in the <baseline opinion> refer to the opinion numbers of informants in “Table 4 Overall Opinion”.
+
+
+Sense of rights
+Awareness that people recognize that they have certain rights. From the words and actions raised below, one has the right to be protected, which limits the occurrence of problems by respecting oneself and recognizing the other's right. It is likely to say that. This supports “Hymptoms 1. Rights conscious”, “people are unconsciously judging rights and acting. Therefore, there is almost no conflict of rights in everyday situations”.
+The following is a statement about specific ideas and actions to avoid infringing rights.
+<Opinion to be the basis>
+3-1. If you do that way (pick up on the net), the point is that the copyright holder will not get any money after all
+3-2. It's probably bad to say legally or badly
+3-3. All drugs that cause nuisance ... I think it should be reasonable if you say that it should be forbidden
+4-1. Do not harm others
+5-1. Should protect copyright
+5-2. Trust the law
+5-6. Respect of the person's intention
+6-1. The law should be observed
+7-1. I will not do anything illegal
+7-2. The copyright should be protected naturally
+7-3. Individual freedom should be protected
+8-1. To protect the rights of others is to pay respect to them.
+8-2. Protecting the law is protecting the right.
+8-3. The company takes appropriate action according to the law rather than the individual.
+9-1. Individual intention is respected
+
+
+Ownership awareness
+The awareness of who is possessed is clear, and the consciousness that the possessed thing should be under its owner. Even if it is not a thing, it is possible to lend and borrow, and at that time it returns something of similar value. The judgment of the value at that time is made between the two. Basically, it is ideal that there is no loan. This supports “If something is given, it tries to return things and services of similar value and maintain balance.” Of “Hypothesis 3. Consciousness of possessions”.
+In the following, I took up the statement about how to balance things and how to think about balancing things and things.
+<Opinion to be the basis>
+3-4. (There is a problem that you don't return with your friend's clothes)
+4-3. There is a basic attitude such as "Returning borrowed goods"
+5-4. I think that it is a problem not to return the borrowed clothes
+6-2. The property should be under the owner, and should receive the same amount upon receiving the alms
+7-4. The borrowed thing basically returns
+9-2. I feel that it is a problem to infringe people's value, return a borrowed thing, or I feel that there is a problem in something that is not original
+
+
+Information awareness
+You can see what kind of sense you have about information. It is often treated in the same sense as a substance, but it has a stronger impression that it can be used more freely than a substance.
+In the following, we have dealt with words and actions that are considered to be free to handle information (data).
+<Opinion to be the basis>
+3-5. Downloading the whole CD is something that feels bad for you
+9-3. Don't make public transmissions of photos taken by yourself or download illegally uploaded ones
+
+
+Privacy awareness
+When raising personal information of yourself and others to the Internet, we consider the scope of disclosure and the influence of disclosure and act accordingly. And in many cases, it seems that following them is less of a problem and more effective for society. This supports Hypothesis 4: "Consciousness to act as if it causes problems as much as possible. Even if it becomes a problem, it tries to be within the range that can be solved by oneself."
+In the following, we have addressed specific ways to prevent privacy violations and the wordings and deeds about the relationship between people and technology today.
+<Opinion to be the basis>
+4-2. Do not post the case of a photo that is clearly likely to be problematic from a privacy standpoint
+5-5. It's a problem to make a photo public
+6-3. Basically don't put up photos of others on the net
+7-5. Individual's embarrassing photos should not be raised naturally
+8-4. It is desirable to get the consent of the person when you upload photos taken in a group to the net.
+
+
+Sense of self-responsibility
+Awareness that you are responsible for your actions. I am highly aware that my important information is protected by myself.
+In the following, I took up the words and deeds that I would like to complete all about my actions and my things.
+<Opinion to be the basis>
+3-6. All information that can be identified is shredded
+3-7. It looks like you are closing the main valve. I thought so. I can't imagine much beyond that, but if you take care of it here and there, it's hard to see anything happening beyond that.
+5-8. We have been able to properly coordinate the development of our own information environment, such as actions at risk and risk management.
+6-4. Personal information should be protected by yourself
+7-6. If you do not want to be published in the photos taken in the group, basically manage yourself
+7-7. Manage personal information by yourself
+8-5. If something goes wrong, it is desirable to respond immediately.
+
+
+Interview survey (SCAT analysis, KJ method)
+As mentioned above, in the interview, we were able to extract unique opinions based on personal experience while making the law a common recognition. It is an individual-specific opinion that is not bound by law alone, but could be classified into seven common ideas. That is, "1. Thought on law, 2. Theory on net", "3. Thought on public", "4. Thought on privacy", "5. If there is no evil", "6. If there is temptation" It is "7. Minority opinion to be ignored", and it is described in "Summary of Fig. 4 Overall (KJ method)" mentioned above.
+
+
+Words and actions that violate the law
+Here, among the opinions obtained in the interview, we have extracted items that are clearly considered to be in violation of the law.
+Thoughts on the law
+Here, the idea that although the law is positive, it does not deny one's own thoughts. You also need to be aware that you may be subject to social sanctions when your conduct is a problem.
+In the following, we have dealt with critics that are easily criticized, such as when you have a question in a fixed rule or expect a convenient result for yourself.
+<Opinion to be the basis>
+3-1 It is also important to feel the flow of the world, not the law absolutely.
+3-3 Thinking and acting on your own is the task of collating your own judgment criteria with the law.
+6-2 If you do not know the law or if you do not sell what you want, you may download illegally.
+In the 7-2 gray zone, you can interpret for your own convenience.
+9-2. If you only enjoy yourself, you may shoot a live show.
+9-3 You may do something generally you should not do if you think it is good, but you need to be aware of social sanctions.
+
+
+Thoughts on the net
+Basically, there is no problem in using things that are available on the Internet. Also, even things that are actually banned by the law may do something if necessary (6-1).
+In the following, we have dealt with the behavior that is considered to be easy to excite illegal acts and illegal acts that are difficult to feel because they are different from the real world of the Internet environment.
+<Opinion to be the basis>
+3-2 On the net, how it feels like real space is different.
+4-1 The Internet has a public image, and what is available for download on the Internet feels free to anyone who uses it.
+5-2 There is no problem in seeing and listening to things on the net even in the market.
+7-3 I can not say that I will never do illegal free download.
+6-1 Socially undesirable illegal download will be done if it is necessary for you.
+9-1 I personally may download illegally uploaded videos, even if I know not to do so.
+There is no problem if you just watch the video that is raised to 7-1 net.
+
+
+Speech and behavior that deviate from general common sense
+Here, among the opinions obtained in the interview, we extracted the subtleties that are whether or not the law was violated, or the things that are inconvenient, but that do not cause much problems.
+
+
+Thoughts on public goods
+Public goods are the nature of everyone's, and the damage is dispersed by everyone, so it is a way of thinking that you may bring it when you are in trouble.
+In the following, we have dealt with speech and behavior that deviates from common sense that is likely to occur only because it is different from public owned things.
+<Opinion to be the basis>
+4-2 The equipment of public institutions is just an example of toilet paper, but I think it is good to carry it.
+
+
+Thoughts on privacy
+Attention tends to be relaxed about the privacy of friends who are close to you.
+In the following, we have addressed the words and behaviors that are easily violated by privacy.
+<Opinion to be the basis>
+4-3 I think it would be safe to post publicly about photos taken with friends and photos taken by the organizer at the event.
+5-4 Even if people from different groups appear in the party hall, it's almost no problem to upload it.
+6-3 People who are in a place where many people gather can be brought to the net without permission
+9-5 I raise a photo taken with my friend without notice.
+
+
+When there is no malice
+If there is no evil, most things tend to be tolerated, even if there is damage.
+In the following, I did not intend to infringe the rights of others, but I dealt with the words and deeds in the case that the result was so.
+<Opinion to be the basis>
+5-1 If there is no evil, it is not good to forget.
+7-4 If you do not know the situation of the other party, it can not be excused for the other party.
+
+
+If there is temptation
+The idea that if there is something that you can get for free, it is best to try to get it.
+In the following, I have dealt with the words and actions that undermine the right of others if they are tempted that they will not follow the temptation.
+<Opinion to be the basis>
+5-3 It's normal to get things that you can get for free.
+
+
+Minority opinion ignored
+The idea that a few disadvantages are inevitable for the benefit of the majority.
+In the following, we talked about words and actions that would be better if there were more people, and those with less people.
+<Opinion to be the basis>
+9-4 If it is promised to guarantee the life of an individual, things that the individual can not agree with may be openly done for the benefit of many people.
